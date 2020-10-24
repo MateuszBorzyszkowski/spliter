@@ -38,5 +38,5 @@ optional arguments:
   -s SIZE, --size SIZE  the size into which the file should be split [in GB]
 ```
 
-### Todo
+## Todo
  - feature to split more than one file
