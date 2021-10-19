@@ -7,7 +7,7 @@ Script to split large files into smaller files. It has been created with the lim
 ## Instalation guide
 #### 1. Download
 ```
-$ git clone https://github.com/MateuszBorzyszkowski/spliter.git
+$ git clone https://github.com/boszmate/spliter.git
 $ cd spliter
 ```
 #### 2. Installation
