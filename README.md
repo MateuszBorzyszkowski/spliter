@@ -4,7 +4,7 @@
 
 Script to split large files into smaller files. It has been created with the limitations of some file systems in mind, eg FAT32 (max 4GB). 7zip splits and packs the selected file into smaller archives.
 
-## Instalation guide
+## Installation guide
 #### 1. Download
 ```
 $ git clone https://github.com/boszmate/spliter.git
